@@ -13,7 +13,7 @@
   box-sizing: border-box;
   background-color: var(--maincolor);
 }
-@media (max-width: 360px)
+@media (max-width: 400px)
 {
 
     *{
