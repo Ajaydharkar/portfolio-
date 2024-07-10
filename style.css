@@ -13,7 +13,7 @@
   box-sizing: border-box;
   background-color: var(--maincolor);
 }
-@media (max-width: 400px)
+@media only screen and (max-width: 600px)
 {
 
     *{
